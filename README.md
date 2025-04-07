@@ -1,1 +1,1 @@
-The implementation of the maximum estimation of Appendix D of my master's thesis, using version 14.0 of Mathematica. To access, download the document as a raw-file and then open it using Mathematica. 
+This notebook contains the implementation of the maximum estimation described in Appendix D of my master's thesis, developed using Mathematica version 14.0. To access it, download the file as raw and open it in Mathematica.
