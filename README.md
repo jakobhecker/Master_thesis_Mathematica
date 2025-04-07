@@ -1,0 +1,1 @@
+The implementation of the maximum estimation of Appendix D of my master's thesis, using version 14.0 of Mathematica. To access, download the document as a raw-file and then open it using Mathematica. 
